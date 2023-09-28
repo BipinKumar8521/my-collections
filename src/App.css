@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
 }
+body {
+  background-color: #151617;
+  color: white;
+}
 .pages {
   margin-top: 60px;
   height: calc(100vh - 60px);
